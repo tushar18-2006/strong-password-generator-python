@@ -17,11 +17,11 @@ It also provides a **Copy Password** button to quickly copy the generated passwo
 
 ### Home Screen
 
-![image](images/home.png)
+![image](https://github.com/tushar18-2006/strong-password-generator-python/blob/f0227e1686e9384dcef49dce41a3a6832c1af13c/Home-Screen.png)
 
 ### Generated Password
 
-![image](images/generated.png)
+![image](https://github.com/tushar18-2006/strong-password-generator-python/blob/f0227e1686e9384dcef49dce41a3a6832c1af13c/Generated-Password.png)
 
 ---
 
